@@ -1,6 +1,6 @@
 # Beverage Dispensers - Report November and December 2019
 
-*(Business case : Training Quest - Wild Code School (In French))*
+*(Business case : Training Quest - Wild Code School (in French))*
 
 ## Problématique
 
